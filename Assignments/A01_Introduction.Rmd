@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: Aman Hingu
 output: pdf_document
 geometry: margin=2.54cm
 ---
@@ -22,21 +22,21 @@ The completed exercise is due on <>.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: During my undergraduate years, I took a course named Biostatistics. This included a brief and surface layer introduction to R, with an emphasis on its use for statistics and public health. In regards to informal training, I once worked on an internship project where I learned to produce basic environmental health & safety visualization dashboards using Tableau. 
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I think that I've learned about basic statistics and probability concepts in the past, so hopefully that will be a review for me. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I think I've always struggled with coding and the logic behind many types of loops and iterative scripting. Thus, I am quite apprehensive towards the programming/logic aspects of the course. 
 
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository  and that you have updated your course README file. 
 
-> Answer: 
+> Answer: https://github.com/aah77/Environmental_Data_Analytics_2022.git
 
 
