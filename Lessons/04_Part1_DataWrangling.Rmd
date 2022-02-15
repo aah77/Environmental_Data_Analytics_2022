@@ -19,7 +19,7 @@ Today we will work with a dataset from the [North Temperate Lakes Long-Term Ecol
 
 Opening discussion: why might we be interested in long-term observations of temperature, oxygen, and light in lakes?
 
-> Add notes here: 
+> Add notes here: Temperature, dissolved oxygen, and light exposure are all factors that contribute to the stability of biological systems within the water.  
 
 ```{r, message = FALSE}
 getwd()
